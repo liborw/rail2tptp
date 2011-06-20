@@ -12,12 +12,14 @@ The station is represented by directed graph where each node has specific format
 * Output node:                  `node O in1`
 
 Example railway station:
+    
     I ----- > --- | --- < ----->
            /             \
           /               \
     I ----                 ---->
 
 Example in rail format:
+    
     a1 I 1
     a2 I 2
     b  > 1 2 3
